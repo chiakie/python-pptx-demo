@@ -1,2 +1,4 @@
-pip install python-pptx # access pptc  
-pip install pandas openpyxl # access excel  
+# access pptx  
+pip install python-pptx  
+# access excel  
+pip install pandas openpyxl  
